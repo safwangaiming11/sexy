@@ -1328,27 +1328,4 @@ def Subscraption():
 		print(logo)
 		Main()
 	else:
-		os.system("clear")
-		print(logo)
-		print("\t \033[1;32m First Get Approvel\033[1;37m ")
-		time.sleep(1)
-		os.system("clear")
-		print(logo)
-		print ("")
-		print(" \033[1;32m TANJID VAI Toll Paid You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;32m Note : Paid Tolls Free  HA JANI LOG \033[1;37m")
-		print ("")
-		print(" Your Key is Not Approved ")
-		print("")
-		print(" Copy And Send Key To Admin")
-		print ("")
-		print (" Your Key : "+SAFWAN ISLAM)
-		print ("")
-		name = input (" Your Name : ")
-		print ("")SAFWAN
-		input(" Press Enter To Send Key")
-		time.sleep(3.5)
-		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+TANJID VAI+VAU+key1
-		os.system('am start https://wa.me/+8801884153077?text=' + tks)
-		Subscraption()        
-Subscraption()     
+		
